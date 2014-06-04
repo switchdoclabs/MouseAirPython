@@ -1,3 +1,4 @@
 conflocal.py
-*tx
-
+tx*
+*.swp
+*.pyc
